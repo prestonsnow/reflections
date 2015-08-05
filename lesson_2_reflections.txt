@@ -1,0 +1,7 @@
+What happends when you initialize a repository? Why do you need to do it?
+	A .git folder containing repository metadata is created in order to allow git to do its thing.
+
+How is the staging area different from the working directory and the repository? What value do
+you think it offers?
+	It is an intermediate step between the two. It allows a buffer for errors.
+	
