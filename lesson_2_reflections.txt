@@ -17,3 +17,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	They create a single branch.  Because you are fuckheads.
+
+What are the pros and cons of GIT's automatic merging vs. always doing merges manually?
+	If can eliminate tedious work when two unrelated snippets are being merged.
