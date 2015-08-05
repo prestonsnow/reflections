@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	I was able to pinpoint where code had been added or removed, which is where the bug would be
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Less time spent attempting to undo a past mistake, or recover a lost version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in GIT, vs having versions automatically saved, like Goodgle Docs does?
+	Pros
+		Finer grain control over commits, so that they aren't saved too often or too infrequently
+	Cons
+		Allows human error. Could forget to commit or could commit too frequently.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log allows you to see the commit message and id of each commit in the repository's history.
+	git diff allows you to compare the differences between two different commits, using their
+	commit ids.
+
+How might using version control make you more confident to make changes that would break something?
+	I can rewind to an unbroken state if I need to.
+
+Now that you have your workspace set up, what do you want to try using GIT for?
+	coding.
+
+What happends when you initialize a repository? Why do you need to do it?
+	A .git folder containing repository metadata is created in order to allow git to do its thing.
+	
