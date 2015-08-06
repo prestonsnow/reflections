@@ -1,2 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
   When you are working from multiple terminals, like at work and home.
+
+Why might you want to always pull changes manually rather than having GIT automatically stay up-to-date with your remote repository?
+	So you are working with the exact version of the codebase that you want, not some arbitary branch that GIT decides.
