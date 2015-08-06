@@ -3,3 +3,8 @@ When would you want to create a remote repository rather than keeping all your w
 
 Why might you want to always pull changes manually rather than having GIT automatically stay up-to-date with your remote repository?
 	So you are working with the exact version of the codebase that you want, not some arbitary branch that GIT decides.
+
+Describe the difference between forks, clones, and branches.  When would you use on instead of another?
+	- Fork is a special type of clone used when you pull a repository from github
+	- Clone is when you copy an existing repository
+	- branch is when you split a repository on two or more development tracks.
